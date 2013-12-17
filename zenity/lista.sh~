@@ -1,0 +1,13 @@
+#!/bin/bash
+file=$(zenity –width=360 –height=320 –list –title “Lanzador” –column Acciones \
+“Abrir Gedit” “Abrir carpeta Música” “Ir aLinuxZone”) \
+
+if "$file" = "Abrir Gedit" ];then
+/usr/bin/gedit
+elif "$file" = "Abrir carpeta Música" ];then
+xdg-open ~/Música/
+elif "$file" = "Ir aLinuxZone" ];then
+xdg-open http://linuxzone.es/
+else
+exit 0
+fi

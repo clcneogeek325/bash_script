@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Scrip para un mensaje
+zenity --warning --title="Ubuntu y algo mas" --text "Estas demasiado tiempo frente al PC. Tu cerebro se formateara en 1 minuto."

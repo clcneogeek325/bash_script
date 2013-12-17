@@ -1,0 +1,24 @@
+actualizar.sh
+apliarActualizaciones.sh
+calculadora.sh
+ciclo-for.sh
+claculadora.sh
+cuadrado.sh
+division.sh
+Estructura ciclo while.sh
+Estructura-ciclo-while.sh
+Estructura-if.sh
+fondo_de_pantall.sh
+for2.sh
+holamundo.sh
+logo.sh
+menus.sh
+multiplicasion.sh
+multiplic.sh
+Mysql.sh
+Mysql.sh~
+name.sh
+pantalla.txt
+resta.sh
+resta.sh~
+Suma.sh
