@@ -1,0 +1,8 @@
+calendario.sh
+entrada.sh
+GUILamp.sh
+listas.sh
+menuscase.sh
+menu.sh
+pregunta.sh
+progreso.sh

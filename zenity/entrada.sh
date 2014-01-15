@@ -1,7 +1,7 @@
 #!/bin/bash
 
-url=$(zenity --entry --text "Introduce la URL del video"  \
+dato=$(zenity --entry --text "Introduce el comando"  \
 --title "Descargar videos indrocioiendo el link de descagra"  \
 --width="600" --height="120" )
 
-echo "este es el url del video $url"
+terminator "$dato"

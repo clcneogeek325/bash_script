@@ -15,10 +15,10 @@ echo $resultado
 if [ "$resultado" = "Gedit" ]; then
 	/usr/bin/gedit
 elif [ "$resultado" = "Terminal" ]; then
-gnome-terminal
+	gnome-terminal
 elif [ "$resultado" = "Blender" ]; then
-blender
+	blender
 elif [ "$resultado" = "Musica" ]; then
-gnome-open ~/Música
+	gnome-open ~/Música
 fi
 

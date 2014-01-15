@@ -1,0 +1,250 @@
+00:23:58 > Discovery profile: Default discovery profile
+00:23:58 > Discovery class:   data-link (data-link layer)
+00:23:58 > Discovery on:      10.42.0.0/24
+
+00:23:58 > Discovery round starting.
+00:23:58 > Host is up:   10.42.0.1
+           HW Address:   00:22:5F:8B:D7:EF (Liteon Technology)
+           Hostname:     kevinmitnik-Inspiron-1545.local
+
+00:23:58 > Discovery progress 25%
+00:24:00 > Discovery progress 50%
+00:24:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:24:03 > Discovery round completed in 4.861 seconds.
+00:24:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:24:03 > Next round starting at 00:24:58. Press Ctrl^C to exit.
+
+00:24:58 > Discovery round starting.
+00:24:58 > Discovery progress 25%
+00:25:00 > Discovery progress 50%
+00:25:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:25:03 > Discovery round completed in 4.889 seconds.
+00:25:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:25:03 > Next round starting at 00:25:58. Press Ctrl^C to exit.
+
+00:25:58 > Discovery round starting.
+00:25:58 > Discovery progress 25%
+00:26:00 > Discovery progress 50%
+00:26:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:26:03 > Discovery round completed in 4.881 seconds.
+00:26:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:26:03 > Next round starting at 00:26:58. Press Ctrl^C to exit.
+
+00:26:58 > Discovery round starting.
+00:26:58 > Discovery progress 25%
+00:27:00 > Discovery progress 50%
+00:27:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:27:03 > Discovery round completed in 4.877 seconds.
+00:27:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:27:03 > Next round starting at 00:27:58. Press Ctrl^C to exit.
+
+00:27:58 > Discovery round starting.
+00:27:58 > Discovery progress 25%
+00:28:00 > Discovery progress 50%
+00:28:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:28:03 > Discovery round completed in 4.896 seconds.
+00:28:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:28:03 > Next round starting at 00:28:58. Press Ctrl^C to exit.
+
+00:28:58 > Discovery round starting.
+00:28:58 > Discovery progress 25%
+00:29:00 > Discovery progress 50%
+00:29:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:29:03 > Discovery round completed in 4.899 seconds.
+00:29:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:29:03 > Next round starting at 00:29:58. Press Ctrl^C to exit.
+
+00:29:58 > Discovery round starting.
+00:29:58 > Discovery progress 25%
+00:30:00 > Discovery progress 50%
+00:30:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:30:03 > Discovery round completed in 4.893 seconds.
+00:30:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:30:03 > Next round starting at 00:30:58. Press Ctrl^C to exit.
+
+00:30:58 > Discovery round starting.
+00:30:58 > Discovery progress 25%
+00:31:00 > Discovery progress 50%
+00:31:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:31:03 > Discovery round completed in 4.878 seconds.
+00:31:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:31:03 > Next round starting at 00:31:58. Press Ctrl^C to exit.
+
+00:31:58 > Discovery round starting.
+00:31:58 > Discovery progress 25%
+00:32:00 > Discovery progress 50%
+00:32:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:32:03 > Discovery round completed in 4.900 seconds.
+00:32:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:32:03 > Next round starting at 00:32:58. Press Ctrl^C to exit.
+
+00:32:58 > Discovery round starting.
+00:32:58 > Discovery progress 25%
+00:33:00 > Discovery progress 50%
+00:33:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:33:03 > Discovery round completed in 4.882 seconds.
+00:33:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:33:03 > Next round starting at 00:33:58. Press Ctrl^C to exit.
+
+00:33:58 > Discovery round starting.
+00:33:58 > Discovery progress 25%
+00:34:00 > Discovery progress 50%
+00:34:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:34:03 > Discovery round completed in 4.889 seconds.
+00:34:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:34:03 > Next round starting at 00:34:58. Press Ctrl^C to exit.
+
+00:34:58 > Discovery round starting.
+00:34:58 > Discovery progress 25%
+00:35:00 > Discovery progress 50%
+00:35:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:35:03 > Discovery round completed in 4.878 seconds.
+00:35:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:35:03 > Next round starting at 00:35:58. Press Ctrl^C to exit.
+
+00:35:58 > Discovery round starting.
+00:35:59 > Discovery progress 25%
+00:36:00 > Discovery progress 50%
+00:36:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:36:03 > Discovery round completed in 4.964 seconds.
+00:36:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:36:03 > Next round starting at 00:36:58. Press Ctrl^C to exit.
+
+00:36:58 > Discovery round starting.
+00:36:58 > Discovery progress 25%
+00:37:00 > Discovery progress 50%
+00:37:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:37:03 > Discovery round completed in 4.881 seconds.
+00:37:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:37:03 > Next round starting at 00:37:58. Press Ctrl^C to exit.
+
+00:37:58 > Discovery round starting.
+00:37:58 > Discovery progress 25%
+00:38:00 > Discovery progress 50%
+00:38:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:38:03 > Discovery round completed in 4.880 seconds.
+00:38:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:38:03 > Next round starting at 00:38:58. Press Ctrl^C to exit.
+
+00:38:58 > Discovery round starting.
+00:38:58 > Discovery progress 25%
+00:39:00 > Discovery progress 50%
+00:39:01 > Discovery progress 75%
+-------------------------------------------------------------------------------
+| State | Host                              | MAC Address       | Last change |
+|-----------------------------------------------------------------------------|
+|  UP   | 10.42.0.1                         | 00:22:5F:8B:D7:EF |             |
+-------------------------------------------------------------------------------
+
+00:39:03 > Discovery round completed in 4.877 seconds.
+00:39:03 > Network 10.42.0.0/24 has 1/1 hosts up.
+
+00:39:03 > Next round starting at 00:39:58. Press Ctrl^C to exit.
+
+00:39:34 > Discovery stopped
+
